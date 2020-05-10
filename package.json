@@ -1,0 +1,33 @@
+{
+  "name": "log-style",
+  "version": "1.0.0",
+  "description": "Customize the style of logged message",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babak-Gholamzadeh/log-style.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "style",
+    "color",
+    "colour",
+    "custom",
+    "cli",
+    "command-line",
+    "logging"
+  ],
+  "author": "Babak Gholamzadeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Babak-Gholamzadeh/log-style/issues"
+  },
+  "homepage": "https://github.com/Babak-Gholamzadeh/log-style#readme"
+}

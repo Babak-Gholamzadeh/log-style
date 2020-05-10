@@ -18,3 +18,4 @@ console.log = function(...args) {
   }
   log(...newArgs);
 }
+

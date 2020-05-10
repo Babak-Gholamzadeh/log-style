@@ -1,5 +1,5 @@
 # Log Style
-Customize the style of logged messages just by adding all of your (CSS) styles in a plain object.
+Customize the style of the logged messages just by adding all of your (CSS) styles in a plain object.
 
 ### Installation
 ```
@@ -8,7 +8,7 @@ npm i log-style
 
 ### Example
 ```javascript
-console.log('you message'.styles({
+console.log('your message'.styles({
   background: '#fff',
   color: 'red',
   padding: '10px',

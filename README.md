@@ -1,6 +1,7 @@
 # Log Style
 Customize the style of the logged messages just by adding all of your (CSS) styles in a plain object.
-*Note: it just works in the browser*
+
+*Note: it just works in the browsers*
 
 ### Installation
 ```

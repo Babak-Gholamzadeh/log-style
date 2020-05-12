@@ -1,6 +1,6 @@
 {
   "name": "log-style",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Customize the style of logged message",
   "main": "index.js",
   "directories": {
